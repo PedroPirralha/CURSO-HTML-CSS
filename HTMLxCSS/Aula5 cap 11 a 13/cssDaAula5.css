@@ -1,0 +1,16 @@
+/* este é o comentario css */
+h3 {
+    /*formatação de texto */
+    color: blue;
+    font-family: fantasy;
+    font-size: 25px;
+    font-style: italic;
+    font-variant: normal; /*small-caps*/
+    font-weight: 700; /*peso da font*/
+    letter-spacing: 0px; /*espaçamento entre as letra*/
+    text-align:center; /*direciona o texto para um canto da tela*/
+    text-decoration: none ; /* decora o texto com linhas (underline, overline, line-through)*/
+    text-indent: 0px; /*identação do texto*/
+    text-transform: none; /*deixa o texto maiusculo ou em minusculo (captitalize, lowercase, uppercase*/
+    vertical-align:none; /* alinhamento vertical do texto*/
+}

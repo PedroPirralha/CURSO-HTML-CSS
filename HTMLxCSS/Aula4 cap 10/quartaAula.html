@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Aula4</title>
+</head>
+<body>
+    <h3>Estrutura basica de Tabelas</h3>
+    <h1>Tabelas</h1>
+    <table summary="está é uma tabela de teste" border="1"> 
+        <caption>(legenda)</caption> <!--caption define o nome da tabela-->
+        <thead> <!--define o nome das colunas-->
+            <tr>
+                <th>#id</th>
+                <th>x</th>
+                <th>y</th>
+            </tr>
+        </thead>
+        <tbody class="item-table"> <!--definir classes para as colunas para melhor configuração-->
+            <tr>
+                <td>0</td>
+                <td>var10</td>
+                <td>var20</td>
+            </tr>
+        </tbody>
+        <tbody class="item-table">
+            <tr>
+                <td>1</td>
+                <td>var30</td>
+                <td>var40</td>
+            </tr>
+        </tbody>
+        
+    </table>
+    <br>
+    <table border="3" cellspacing="10" cellpadding="10">
+        <tr>
+            <td align="center">celula principal</td>
+        </tr>
+        <td>
+            <table cellspacing="2" cellpadding="2"> 
+                <tr>
+                    <td>celula 1</td>
+                    <td>celula 2</td>
+                </tr>
+                <tr>
+                    <td>celula 3 </td>
+                    <td>celula 4</td>
+                </tr>
+            </table>
+        </td>
+    </table>
+</body>
+</html>

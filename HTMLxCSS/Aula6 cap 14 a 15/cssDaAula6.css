@@ -1,0 +1,28 @@
+
+h4, h3 {
+    color:#f00;
+
+}
+div::first-line {
+    color: gray;
+}
+p:hover{
+    color: green;
+    font-size: 23px;
+}
+.myDiv{
+    color: #00f;
+}
+.testDiv{
+    background-color: green;
+    height: 70px;
+    text-align: center;
+    width: 300px;
+    font-size: 27px;
+    text-decoration: none;
+    position: absolute;
+    
+}
+a:visited {
+    color: yellow;
+}
