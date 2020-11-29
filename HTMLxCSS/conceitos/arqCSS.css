@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(186, 186, 218);
+}
+h3{
+    margin:0;
+
+}
+table {
+    border: blue;
+    margin: 5px 0 30px 29vh;
+    font-size: 25px;
+}
+.tr1 {
+    position: absolute;
+    margin: 0  60px;
+}
+.cssDecorate h4{
+    margin: 3px;
+    padding: 0;
+}
+.Deco1 {
+    letter-spacing: 5px;
+    color: darkblue;
+    font-style:italic;
+    font-size: 20px;
+}
+.Deco2 {
+    font-family: fantasy;
+    font-weight: 200;
+    color: darkblue;
+    font-style:italic;
+    font-size: 20px;
+}
+.Deco3 {
+    text-decoration: underline;
+    color: darkblue;
+    font-style:italic;
+    font-size: 20px;
+}
+.Deco4 {
+    text-transform: capitalize;
+    color: darkblue;
+    font-style:italic;
+    font-size: 20px;
+}
+.Deco4:hover{
+    color: darkgoldenrod;
+    background-color: darkred;
+    width: 110px;
+    text-indent: 4px;
+}
+.Deco5 {
+    font-variant: small-caps;
+    color: darkblue;
+    font-style:italic;
+    font-size: 20px;
+}
+img{
+    margin: 20px;
+    color: goldenrod;
+    width: 500px;
+}
+img:hover{
+    color: darkslategrey;
+}

@@ -1,0 +1,26 @@
+body {
+    margin:0 ;
+}
+
+footer {
+    background-color: burlywood;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer h1{
+    text-align: center;
+}
+footer p {
+    font-size: 27px;
+    padding: 0 0 0 15px;
+    margin: 5px;
+}
+footer p span {
+    font-weight: 700;
+    font-size: 20px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 0 15px 0 0 ;
+}
