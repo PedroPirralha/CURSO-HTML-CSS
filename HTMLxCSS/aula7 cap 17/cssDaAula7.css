@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+#box1 {
+    background-color: #999;
+    padding: 20px;
+}
+#box2 {
+    background-color: #099;
+    padding: 10px;
+    width: 300px;
+    height: 50px;
+}
+#box3 {
+    padding: 10px;
+    border: 2px solid #f00;
+    margin: 20px;
+    width: 150px;
+}
+#box4 {
+    background-color: #bfa;
+    border: 2px dotted #080;
+    padding: 10px 5px 10px 5px;
+    width: 150px;
+}
+#box5 {
+    background-color: #afa;
+    border: 2px dotted #070;
+    padding: 10px 5px 10px 5px;
+    margin: 10px 0px 10px 0px;
+    width: 300px;
+    height: 100px;
+}
+
+#box6 {
+    background-color: #bfb;
+    border: 2px dotted #090;
+    padding: 10px 5px 10px 5px;
+    margin: 150px;
+    height: 100px;
+
+}
