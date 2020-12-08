@@ -1,0 +1,23 @@
+
+h1 {
+    background-color: #cc9;
+    border: 10px solid #f00;
+    padding: 5px;
+}
+h3 {
+    background-color: #fc9;
+    border: 20px solid #039;
+    padding: 15px;
+}
+p.um {
+    background-color: #cff;
+    border: 5px solid #f0f;
+    padding: 5px;
+    text-align: justify;
+}
+p.dois {
+    background-color: #cff;
+    border: 2px solid #039;
+    padding: 10px;
+    text-align: justify;
+}
